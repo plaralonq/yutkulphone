@@ -1,0 +1,10 @@
+{
+  "name": "Tokuno Yushi Virtual iPhone",
+  "short_name": "Yushi Phone",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#11131b",
+  "theme_color": "#11131b",
+  "description": "A fan-made virtual phone interface for Tokuno Yushi",
+  "icons": []
+}
